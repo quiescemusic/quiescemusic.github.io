@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <img src="https://raw.githubusercontent.com/quiescemusic/quiescemusic.github.io/refs/heads/main/QBanner-Transparent.png" alt="Quiesce Music">
+    <img src="https://raw.githubusercontent.com/quiescemusic/quiescemusic.github.io/refs/heads/main/QBanner-thin.png" alt="Quiesce Music">
 </head>
 <body>
     <h2>Creator, Performer & Publisher</h2>
