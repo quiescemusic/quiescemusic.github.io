@@ -1,2 +1,1 @@
-# quiescemusic.github.io
-Website of Quiesce—music creator, performer and publisher.
+<h1> Music creator, performer & publisher </h1>
