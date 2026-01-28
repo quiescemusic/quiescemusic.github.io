@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <img src="https://raw.githubusercontent.com/quiescemusic/quiescemusic.github.io/refs/heads/main/QBanner-thin.png" alt="Quiesce Music">
